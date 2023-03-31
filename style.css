@@ -163,269 +163,268 @@
     flex-grow: 0;
 }
 
-.button6{
+.button6 {
     /* button */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 20px 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 36px;
 
-width: 146px;
-height: 52px;
+    width: 146px;
+    height: 52px;
 
-/* secondary */
+    /* secondary */
 
-background: #03D6F3;
-/* shadow */
+    background: #03D6F3;
+    /* shadow */
 
-box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
-border-radius: 39px;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    border-radius: 39px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
-.text8{
-/* text */
+.text8 {
+    /* text */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 74px;
-height: 36px;
+    width: 74px;
+    height: 36px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.pindot{
+.pindot {
     /* Button */
 
 
-width: 54px;
-height: 16px;
+    width: 54px;
+    height: 16px;
 
-/* Button */
+    /* Button */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 16px;
-/* identical to box height, or 100% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 100% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-#light-CTA-2{
+#light-CTA-2 {
     /* light CTA 2 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 63px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 63px 0px;
 
-width: 1583px;
-height: 691px;
+    width: 1583px;
+    height: 691px;
 
-background: #FFFFFF;
+    background: #FFFFFF;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 4;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 4;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-.content5{
+.content5 {
     /* content */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 67px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 67px;
 
-width: 1260px;
-height: 565px;
+    width: 1260px;
+    height: 565px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.text-content4{
+.text-content4 {
     /* text content */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-gap: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 7px;
 
-width: 426px;
-height: 479px;
+    width: 426px;
+    height: 479px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.hdline{
+.hdline {
     /* headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 79px;
-height: 66px;
+    width: 79px;
+    height: 66px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.secondheadline4{
+.secondheadline4 {
     /* Second Headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 394px;
-height: 191px;
+    width: 394px;
+    height: 191px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.perfect-solution{
+.perfect-solution {
     /* Perfect solution for small businesse */
 
 
-width: 374px;
-height: 171px;
+    width: 374px;
+    height: 171px;
 
-/* Second Headline */
+    /* Second Headline */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 46px;
-line-height: 57px;
-/* or 124% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 57px;
+    /* or 124% */
 
-text-align: left;
+    text-align: left;
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.paragraph{
-/* Paragraphe */
+.paragraph {
+    /* Paragraphe */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 30px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 30px 10px;
+    gap: 10px;
 
-width: 323px;
-height: 222px;
+    width: 323px;
+    height: 222px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.pgraph
-{
+.pgraph {
     /* Being a freelancer is a rollercoaster of emotions. We built Slate to keep your freelance business less stressful. We'd love to show you what we're building... */
 
 
     width: 301px;
     height: 162px;
-    
+
     /* Paragraphe */
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -433,20 +432,21 @@ flex-grow: 0;
     line-height: 28px;
     text-align: left;
     /* or 150% */
-    
+
     letter-spacing: 0.5px;
-    
+
     /* second text */
-    
+
     color: #5C5C5C;
-    
-    
+
+
     /* Inside auto layout */
-    
+
     flex: none;
     order: 0;
     flex-grow: 0;
 }
+
 .quickneasy {
     /* Quick & Easy Process */
 
@@ -509,27 +509,27 @@ h2 {
     flex-grow: 0;
 }
 
-.frame23{
+.frame23 {
     /* Frame 23 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 7px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 7px;
 
-width: 426px;
-height: 52px;
+    width: 426px;
+    height: 52px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
 h3 {
@@ -975,896 +975,898 @@ h3 {
 }
 
 .subHeading {
-/* sub heading */
+    /* sub heading */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 29px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 29px 10px;
+    gap: 10px;
 
-width: 503px;
-height: 118px;
+    width: 503px;
+    height: 118px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
 
-.educ{
+.educ {
     /* Education */
 
 
-width: 157px;
-height: 33px;
+    width: 157px;
+    height: 33px;
 
-/* Title */
+    /* Title */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 33px;
-margin-right: 10px;
-/* identical to box height, or 110% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 33px;
+    margin-right: 10px;
+    /* identical to box height, or 110% */
 
-text-align: center ; 
-letter-spacing: 0.1px;
+    text-align: center;
+    letter-spacing: 0.1px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.subtitle3{
+.subtitle3 {
     /* Subtitle */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 144px;
-height: 18px;
+    width: 144px;
+    height: 18px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.subtitle{
-/* Subtitle */
+.subtitle {
+    /* Subtitle */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-/* align-items: center; */
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
 
-padding: 0px 10px;
-gap: 10px;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 144px;
-height: 18px;
+    width: 144px;
+    height: 18px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.zero{
+.zero {
     width: 37px;
-height: 66px;
+    height: 66px;
 
-/* Headline */
+    /* Headline */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 900;
-font-size: 55px;
-line-height: 66px;
-/* identical to box height, or 119% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 66px;
+    /* identical to box height, or 119% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* primary */
+    /* primary */
 
-color: #30D7BA;
+    color: #30D7BA;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.dollar{
+.dollar {
     /* $ */
 
 
-width: 20px;
-height: 33px;
+    width: 20px;
+    height: 33px;
 
-/* Title */
+    /* Title */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 33px;
-/* identical to box height, or 110% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 33px;
+    /* identical to box height, or 110% */
 
-letter-spacing: 0.1px;
+    letter-spacing: 0.1px;
 
-/* primary */
+    /* primary */
 
-color: #30D7BA;
+    color: #30D7BA;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.month{
+.month {
     /* Per/ month */
 
 
-width: 62px;
-height: 18px;
+    width: 62px;
+    height: 18px;
 
-/* Subtitle */
+    /* Subtitle */
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 12px;
-line-height: 18px;
-/* identical to box height, or 150% */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
 
-letter-spacing: 0.1px;
+    letter-spacing: 0.1px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.order{
-/* Order Notifications */
+.order {
+    /* Order Notifications */
 
 
-width: 144px;
-height: 27px;
+    width: 144px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 27px;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.link5{
+.link5 {
     /* Link */
 
 
     /* Auto layout */
-    
+
     display: flex;
     flex-direction: row;
     align-items: center;
     padding: 10px;
     gap: 10px;
-    
+
     width: 132px;
     height: 47px;
-    
-    
+
+
     /* Inside auto layout */
-    
+
     flex: none;
     order: 4;
     align-self: stretch;
     flex-grow: 0;
 }
 
-.landing{
+.landing {
     /* Landing Pages */
 
 
-width: 113px;
-height: 27px;
+    width: 113px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-text-align: right;
-line-height: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: right;
+    line-height: 27px;
 
-/* identical to box height, or 180% */
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.orderNow{
+.orderNow {
     /* Order Now */
 
 
-width: 87px;
-height: 16px;
+    width: 87px;
+    height: 16px;
 
-/* Button */
+    /* Button */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 16px;
-/* identical to box height, or 100% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 100% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.text9{
+.text9 {
     /* text */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 107px;
-height: 36px;
+    width: 107px;
+    height: 36px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.button7{
+.button7 {
     /* button */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 20px 72px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 72px;
 
-width: 251px;
-height: 52px;
+    width: 251px;
+    height: 52px;
 
-/* secondary */
+    /* secondary */
 
-background: #03D6F3;
-/* shadow */
+    background: #03D6F3;
+    /* shadow */
 
-box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
-border-radius: 39px;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    border-radius: 39px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 4;
-align-self: center;
-flex-grow: 0;
+    flex: none;
+    order: 4;
+    align-self: center;
+    flex-grow: 0;
 }
 
-.link4{
+.link4 {
     /* Link */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
-padding-right: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    padding-right: 10px;
 
-width: 164px;
-height: 47px;
+    width: 164px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 3;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 3;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-.only{
+.only {
     /* Only 2 Operators */
 
 
-width: 129px;
-height: 27px;
+    width: 129px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-text-align: right;
-line-height: 27px;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: right;
+    line-height: 27px;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 
-.cart{
-/* Abandoned Cart */
+.cart {
+    /* Abandoned Cart */
 
 
-width: 129px;
-height: 27px;
+    width: 129px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 27px;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.link2{
+.link2 {
     /* Link */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 149px;
-height: 47px;
+    width: 149px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.link3{
-/* Link */
+.link3 {
+    /* Link */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
-text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
 
-width: 240px;
-height: 47px;
+    width: 240px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-.fb{
-/* Facebook & Instagram Ads */
+.fb {
+    /* Facebook & Instagram Ads */
 
 
-width: 207px;
-height: 27px;
+    width: 207px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 13px;
-text-align: right;
-line-height: 27px;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: right;
+    line-height: 27px;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 
-.link1{
-/* Link */
+.link1 {
+    /* Link */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 149px;
-height: 47px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-.list{
-/* List */
+    width: 149px;
+    height: 47px;
 
 
-/* Auto layout */
+    /* Inside auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-
-width: 255px;
-height: 235px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 3;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.subtitle2{
+.list {
+    /* List */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+
+    width: 255px;
+    height: 235px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 3;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.subtitle2 {
     /* Subtitle */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
 
-width: 62px;
-height: 28px;
+    width: 62px;
+    height: 28px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.title3{
+.title3 {
     /* Title */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 10px;
-text-align: right;
-
-
-width: 19px;
-height: 33px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+    text-align: right;
 
 
-/* Inside auto layout */
+    width: 19px;
+    height: 33px;
 
-flex: none;
-order: 0;
-flex-grow: 0;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.block{
+.block {
     /* block */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
 
-width: 62px;
-height: 61px;
+    width: 62px;
+    height: 61px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.headline{
+.headline {
     /* headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 57px;
-height: 66px;
+    width: 57px;
+    height: 66px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.row{
+.row {
     /* row */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
 
-width: 119px;
-height: 61px;
+    width: 119px;
+    height: 61px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-align-self: center;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    align-self: center;
+    flex-grow: 0;
 }
 
-.brief{
+.brief {
     /* Brief price Description */
 
 
-width: 124px;
-height: 18px;
+    width: 124px;
+    height: 18px;
 
-/* Subtitle */
+    /* Subtitle */
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 100;
-font-size: 11px;
-line-height: 18px;
-/* identical to box height, or 150% */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 11px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
 
-letter-spacing: 0.1px;
+    letter-spacing: 0.1px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 .mostCalendars {
-/* Most calendars are designed for teams. Slate is designed for freelancers who want a simple way to plan their schedule. */
+    /* Most calendars are designed for teams. Slate is designed for freelancers who want a simple way to plan their schedule. */
 
 
-width: 483px;
-height: 60px;
+    width: 483px;
+    height: 60px;
 
-/* Sub Heading */
+    /* Sub Heading */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 15.5px;
-line-height: 20px;
-/* or 125% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15.5px;
+    line-height: 20px;
+    /* or 125% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-align-self: flex-start;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    align-self: flex-start;
+    flex-grow: 0;
 }
 
-.mdi{
-/* mdi:alarm-light */
+.mdi {
+    /* mdi:alarm-light */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 20px 4px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 4px;
+    gap: 10px;
 
-width: 70px;
-height: 102.62px;
+    width: 70px;
+    height: 102.62px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.vector{
+.vector {
     /* Vector */
 
 
-width: 62px;
-height: 62.62px;
+    width: 62px;
+    height: 62.62px;
 
-/* secondary */
+    /* secondary */
 
-/* background: #03D6F3; */
+    /* background: #03D6F3; */
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.button4{
-/* button */
+.button4 {
+    /* button */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 20px 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 36px;
 
-width: 216px;
-height: 52px;
+    width: 216px;
+    height: 52px;
 
-/* secondary */
+    /* secondary */
 
-background: #03D6F3;
-/* shadow */
+    background: #03D6F3;
+    /* shadow */
 
-box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
-border-radius: 39px;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    border-radius: 39px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.text5{
-/* text */
+.text5 {
+    /* text */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 144px;
-height: 36px;
+    width: 144px;
+    height: 36px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.signupforfree{
+.signupforfree {
     /* sign up for free */
 
 
-width: 124px;
-height: 16px;
+    width: 124px;
+    height: 16px;
 
-/* Button */
+    /* Button */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 16px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
 
-/* identical to box height, or 100% */
+    /* identical to box height, or 100% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
-.frame22{
+
+.frame22 {
     /* Frame 22 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: flex-end;
-padding: 0px;
-gap: 22px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0px;
+    gap: 22px;
 
-width: 441px;
-height: 52px;
+    width: 441px;
+    height: 52px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
 #feature3 {
@@ -2185,422 +2187,423 @@ title {
 }
 
 
-.button5{
-/* button */
+.button5 {
+    /* button */
 
 
-box-sizing: border-box;
+    box-sizing: border-box;
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 20px 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 36px;
 
-width: 203px;
-height: 52px;
+    width: 203px;
+    height: 52px;
 
-/* light background */
+    /* light background */
 
-background: #FFFFFF;
-/* primary */
+    background: #FFFFFF;
+    /* primary */
 
-border: 1px solid #30D7BA;
-/* shadow */
+    border: 1px solid #30D7BA;
+    /* shadow */
 
-box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
-border-radius: 39px;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    border-radius: 39px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.text6{
-/* text */
+.text6 {
+    /* text */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 131px;
-height: 36px;
+    width: 131px;
+    height: 36px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.findout{
-/* find out more */
+.findout {
+    /* find out more */
 
 
-width: 111px;
-height: 16px;
+    width: 111px;
+    height: 16px;
 
-/* Button */
+    /* Button */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 16px;
-/* identical to box height, or 100% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 100% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* primary */
+    /* primary */
 
-color: #30D7BA;
+    color: #30D7BA;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.frame18-2{
+.frame18-2 {
     /* Frame 18 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 536px;
-height: 506px;
+    width: 536px;
+    height: 506px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-#feature4{
+#feature4 {
     /* Light CONTENT 4 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 100px 20px;
-gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 20px;
+    gap: 10px;
 
-width: 1583px;
-height: 758px;
+    width: 1583px;
+    height: 758px;
 
-background: #FFFFFF;
+    background: #FFFFFF;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 3;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 3;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-.content4{
+.content4 {
     /* content */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 80px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 80px;
 
-width: 1160px;
-height: 558px;
+    width: 1160px;
+    height: 558px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.frame18-3{
+.frame18-3 {
     /* Frame 18 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 536px;
-height: 558px;
+    width: 536px;
+    height: 558px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.frame19-2{
+.frame19-2 {
     /* Frame 19 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-gap: 59px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 59px;
 
-width: 544px;
-height: 320px;
+    width: 544px;
+    height: 320px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.text-content3{
-/* Perfect for Operations HR and Finance */
-
-
-width: 522px;
-height: 114px;
-
-/* Second Headline */
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 46px;
-line-height: 57px;
-/* or 124% */
-
-letter-spacing: 0.2px;
-
-/* first text */
-
-color: #000000;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-.text7{
+.text-content3 {
     /* Perfect for Operations HR and Finance */
 
 
-width: 522px;
-height: 114px;
+    width: 522px;
+    height: 114px;
 
-/* Second Headline */
+    /* Second Headline */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 46px;
-line-height: 57px;
-text-align: left;
-/* or 124% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 57px;
+    /* or 124% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.heading2{
+.text7 {
+    /* Perfect for Operations HR and Finance */
+
+
+    width: 522px;
+    height: 114px;
+
+    /* Second Headline */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 57px;
+    text-align: left;
+    /* or 124% */
+
+    letter-spacing: 0.2px;
+
+    /* first text */
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.heading2 {
     /* Title */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 212px;
-height: 53px;
+    width: 212px;
+    height: 53px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.subHeading2{
+.subHeading2 {
     /* sub heading */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 30px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 30px 10px;
+    gap: 10px;
 
-width: 503px;
-height: 120px;
+    width: 503px;
+    height: 120px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.hr{
+.hr {
     /* Most calendars are designed for teams. Slate is designed for freelancers who want a simple way to plan their schedule. */
 
 
-width: 483px;
-height: 60px;
+    width: 483px;
+    height: 60px;
 
-/* Sub Heading */
+    /* Sub Heading */
 
-font-family: 'Poppins', sans-serif;
-font-style: normal;
-font-weight: 700;
-font-size: 15.5px;
-line-height: 20px;
-/* or 125% */
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15.5px;
+    line-height: 20px;
+    /* or 125% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-align-self: flex-start;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    align-self: flex-start;
+    flex-grow: 0;
 }
-.secondheadline3{
+
+.secondheadline3 {
     /* Second Headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 542px;
-height: 134px;
+    width: 542px;
+    height: 134px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 
-.managementncollab{
+.managementncollab {
     /* Management */
 
 
-width: 211px;
-height: 33px;
+    width: 211px;
+    height: 33px;
 
-/* Title */
+    /* Title */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 33px;
-/* identical to box height, or 110% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 33px;
+    /* identical to box height, or 110% */
 
-letter-spacing: 0.1px;
+    letter-spacing: 0.1px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 .card1n3 {
-/* Title */
+    /* Title */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 231px;
-height: 53px;
+    width: 231px;
+    height: 53px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
 .content2 {
@@ -2680,33 +2683,34 @@ flex-grow: 0;
     flex-grow: 0;
 }
 
-.slate2{
-    
+.slate2 {
+
     width: 281px;
     height: 75px;
-    
+
     /* Paragraphe */
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 27px;
     /* or 150% */
-    
+
     letter-spacing: 0.2px;
-    
+
     /* light text */
-    
+
     color: #FFFFFF;
-    
-    
+
+
     /* Inside auto layout */
-    
+
     flex: none;
     order: 0;
     flex-grow: 0;
 }
+
 a {
     /* Link */
 
@@ -2730,756 +2734,759 @@ a {
     flex-grow: 0;
 }
 
-.screen3{
+.screen3 {
     /* screen */
 
 
-width: 762px;
-height: 545px;
+    width: 762px;
+    height: 545px;
 
-background: url(.jpg);
-/* shadow */
+    background: url(.jpg);
+    /* shadow */
 
-filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15));
-border-radius: 5px;
+    filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15));
+    border-radius: 5px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-#light-pricing-3{
+#light-pricing-3 {
     /* light PRICING 3 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 50px 20px;
-gap: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 20px;
+    gap: 30px;
 
-width: 1583px;
-height: 1371px;
+    width: 1583px;
+    height: 1371px;
 
-background: #FFFFFF;
+    background: #FFFFFF;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 5;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 5;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-.simple{
+.simple {
     /* Simple Pricing for Your Team */
 
 
-width: 671px;
-height: 57px;
+    width: 671px;
+    height: 57px;
 
-/* Second Headline */
+    /* Second Headline */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 46px;
-line-height: 57px;
-/* identical to box height, or 124% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 57px;
+    /* identical to box height, or 124% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* first text */
+    /* first text */
 
-color: #000000;
+    color: #000000;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.paragraph2{
+.paragraph2 {
     /* Paragraphe */
 
 
-/* Auto layout */
-
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-
-width: 490px;
-height: 27px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 1;
-flex-grow: 0;
-}
-
-.pgraph2{
-    /* Slate helps you see how many more days you need */
-
-
-width: 473px;
-height: 27px;
-
-/* Paragraphe */
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 27px;
-/* identical to box height, or 150% */
-
-text-align: center;
-letter-spacing: 0.2px;
-
-/* second text */
-
-color: #5C5C5C;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-.cards{
-    /* cards */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 30px 0px;
-gap: 33px;
-
-width: 1071px;
-height: 1127px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 2;
-flex-grow: 0;
-}
-
-
-.heading{
-/* heading */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-padding-right: 70px;
-
-width: 177px;
-height: 71px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-align-self: center;
-flex-grow: 0;
-}
-
-.title2{
-/* Title */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
-
-width: 177px;
-height: 53px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-.dollar2{
-    /* $ */
-
-
-width: 20px;
-height: 33px;
-
-/* Title */
-
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 30px;
-line-height: 33px;
-/* identical to box height, or 110% */
-
-letter-spacing: 0.1px;
-
-/* primary */
-
-color: #30D7BA;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-.title4{
-    /* Title */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 10px;
-
-width: 20px;
-height: 33px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-.heading{
-    /* heading */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-
-width: 177px;
-height: 71px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-align-self: center;
-flex-grow: 0;
-}
-
-.card3{
-    /* Card */
-
-
-box-sizing: border-box;
-
-/* Auto layout */
-
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 40px;
-gap: 30px;
-
-width: 335px;
-height: 1067px;
-
-/* light background */
-
-background: #FFFFFF;
-border: 1px solid #DEDEDE;
-border-radius: 10px;
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-.secondheadline5{
-    /* Second Headline */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-
-width: 686px;
-height: 57px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 0;
-flex-grow: 0;
-}
-
-.block2{
-/* block */
-
-
-/* Auto layout */
-
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-
-width: 62px;
-height: 61px;
-
-
-/* Inside auto layout */
-
-flex: none;
-order: 1;
-flex-grow: 0;
-}
-.row2{
-    /* row */
-
-
     /* Auto layout */
-    
+
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 0px;
-    
-    width: 141px;
-    height: 61px;
-    
-    
+    padding: 0px 10px;
+
+    width: 490px;
+    height: 27px;
+
+
     /* Inside auto layout */
-    
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.pgraph2 {
+    /* Slate helps you see how many more days you need */
+
+
+    width: 473px;
+    height: 27px;
+
+    /* Paragraphe */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+    /* second text */
+
+    color: #5C5C5C;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.cards {
+    /* cards */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 30px 0px;
+    gap: 33px;
+
+    width: 1071px;
+    height: 1127px;
+
+
+    /* Inside auto layout */
+
     flex: none;
     order: 2;
     flex-grow: 0;
 }
 
-.line{
+
+.heading {
+    /* heading */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    padding-right: 70px;
+
+    width: 177px;
+    height: 71px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    align-self: center;
+    flex-grow: 0;
+}
+
+.title2 {
+    /* Title */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    width: 177px;
+    height: 53px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.dollar2 {
+    /* $ */
+
+
+    width: 20px;
+    height: 33px;
+
+    /* Title */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 33px;
+    /* identical to box height, or 110% */
+
+    letter-spacing: 0.1px;
+
+    /* primary */
+
+    color: #30D7BA;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.title4 {
+    /* Title */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+
+    width: 20px;
+    height: 33px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.heading {
+    /* heading */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+
+    width: 177px;
+    height: 71px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    align-self: center;
+    flex-grow: 0;
+}
+
+.card3 {
+    /* Card */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 40px;
+    gap: 30px;
+
+    width: 335px;
+    height: 1067px;
+
+    /* light background */
+
+    background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.secondheadline5 {
+    /* Second Headline */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 10px;
+
+    width: 686px;
+    height: 57px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.block2 {
+    /* block */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+
+    width: 62px;
+    height: 61px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.row2 {
+    /* row */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+
+    width: 141px;
+    height: 61px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.line {
     /* Line 1 */
 
 
-width: 1583px;
-height: 0px;
+    width: 1583px;
+    height: 0px;
 
-border: 1px solid #CDCDCD;
+    border: 1px solid #CDCDCD;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 6;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 6;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-#feature5{
-/* light CTA 3 */
+#feature5 {
+    /* light CTA 3 */
 
 
-/* Auto layout */
-position: absolute;
+    /* Auto layout */
+    position: absolute;
 
-left: 25%; 
-display: flex;
-flex-direction: center;
-align-items: center;
-padding: 62px 199px;
-gap: 10px;
+    left: 25%;
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    padding: 62px 199px;
+    gap: 10px;
 
-width: 1107px;
-height: 366px;
+    width: 1107px;
+    height: 366px;
 
-background: #FFFFFF;
+    background: #FFFFFF;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 7;
-flex-grow: 0;
+    flex: none;
+    order: 7;
+    flex-grow: 0;
 }
 
-.paragraph3{
+.paragraph3 {
     /* Paragraphe */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 376px;
-height: 47px;
+    width: 376px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.input{
+.input {
     /* input */
 
 
-box-sizing: border-box;
+    box-sizing: border-box;
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 33px 28px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 33px 28px;
+    gap: 10px;
 
-width: 284px;
-height: 52px;
+    width: 284px;
+    height: 52px;
 
-background: #EFEFEF;
-border: 1px solid #D0D0D0;
-border-radius: 6px;
+    background: #EFEFEF;
+    border: 1px solid #D0D0D0;
+    border-radius: 6px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.address{
+.address {
     /* Enter Your Adress Email */
 
 
-width: 228px;
-height: 24px;
+    width: 228px;
+    height: 24px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 15px;
-line-height: 24px;
-/* identical to box height, or 160% */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 160% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.button8{
+.button8 {
     /* button */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 20px 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 36px;
 
-width: 177px;
-height: 52px;
+    width: 177px;
+    height: 52px;
 
-/* secondary */
+    /* secondary */
 
-background: #03D6F3;
-/* shadow */
+    background: #03D6F3;
+    /* shadow */
 
-box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
-border-radius: 39px;
+    box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+    border-radius: 39px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.subs{
+.subs {
     /* SUBSCRIBE */
 
 
-width: 88px;
-height: 16px;
+    width: 88px;
+    height: 16px;
 
-/* Button */
+    /* Button */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 16px;
-/* identical to box height, or 100% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 100% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.text10{
+.text10 {
     /* text */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 108px;
-height: 36px;
+    width: 108px;
+    height: 36px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.mail{
+.mail {
     /* MAILING INPUT */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
 
-width: 471px;
-height: 52px;
+    width: 471px;
+    height: 52px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.subscribe{
+.subscribe {
     /* Subscribe to get exclusive news & offer */
 
 
-width: 357px;
-height: 27px;
+    width: 357px;
+    height: 27px;
 
-/* Paragraphe */
+    /* Paragraphe */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 27px;
-/* identical to box height, or 150% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height, or 150% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* second text */
+    /* second text */
 
-color: #5C5C5C;
+    color: #5C5C5C;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.content6{
+.content6 {
     /* content */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-gap: 59px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 59px;
 
-width: 471px;
-height: 242px;
+    width: 471px;
+    height: 242px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.text-content5{
+.text-content5 {
     /* text content */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
-gap: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 7px;
 
-width: 376px;
-height: 131px;
+    width: 376px;
+    height: 131px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.secondheadline6{
-/* Second Headline */
+.secondheadline6 {
+    /* Second Headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 268px;
-height: 77px;
+    width: 268px;
+    height: 77px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.sub{
+.sub {
     width: 248px;
     height: 57px;
-    
+
     /* Second Headline */
-    
+
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
     font-size: 46px;
     line-height: 57px;
     /* identical to box height, or 124% */
-    
+
     letter-spacing: 0.2px;
-    
+
     /* first text */
-    
+
     color: #000000;
-    
-    
+
+
     /* Inside auto layout */
-    
+
     flex: none;
     order: 0;
     flex-grow: 0;
 }
 
 
-.ten{
-/* headline */
+.ten {
+    /* headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 79px;
-height: 66px;
+    width: 79px;
+    height: 66px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.featureslist{
+.featureslist {
     margin-top: 0px;
 }
-.featureslist li{
+
+.featureslist li {
     list-style: none;
     line-height: 45px;
     font-size: 14px;
@@ -3502,7 +3509,7 @@ flex-grow: 0;
     font-weight: 400;
     font-size: 15px;
     line-height: 27px;
-    
+
     /* identical to box height, or 180% */
 
     letter-spacing: 0.2px;
@@ -3532,9 +3539,9 @@ flex-grow: 0;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
-text-align: left;
+    text-align: left;
     /* line-height: 27px; */
-    
+
     /* identical to box height, or 180% */
 
     letter-spacing: 0.2px;
@@ -3551,373 +3558,374 @@ text-align: left;
     flex-grow: 0;
 }
 
-.card-row{
+.card-row {
     /* row */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
 
-width: 141px;
-height: 61px;
+    width: 141px;
+    height: 61px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
 
-footer{
+footer {
     /* light FOOTER 3
 
 
 /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 62px 86px;
-gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 62px 86px;
+    gap: 10px;
 
 
-width: 1583px;
-height: 371px;
+    width: 1583px;
+    height: 371px;
 
-/* secondary */
+    /* secondary */
 
-background: #112D57;
+    background: #112D57;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 8;
-align-self: stretch;
-flex-grow: 0; 
+    flex: none;
+    order: 8;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-.content7{
+.content7 {
     /* content */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 87px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 87px;
 
-width: 1134px;
-height: 247px;
+    width: 1134px;
+    height: 247px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.column{
+.column {
     /* column */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-gap: 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 56px;
 
-width: 317px;
-height: 215px;
+    width: 317px;
+    height: 215px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.footer-row{
+.footer-row {
     /* row */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
-gap: 75px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 75px;
 
-width: 317px;
-height: 141px;
+    width: 317px;
+    height: 141px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.footer-list2{
+.footer-list2 {
     /* List */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
 
-width: 121px;
-height: 141px;
+    width: 121px;
+    height: 141px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.footer-link{
-/* Link */
+.footer-link {
+    /* Link */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 132px;
-height: 47px;
+    width: 132px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.priceOne{
+.priceOne {
     width: 112px;
-height: 27px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 27px;
-text-align: center;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    text-align: center;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.priceThree{
-/* Price Item Three */
+.priceThree {
+    /* Price Item Three */
 
 
-width: 124px;
-height: 27px;
+    width: 124px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 27px;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.justType{
+.justType {
     /* Subtitle */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 183px;
-height: 18px;
+    width: 183px;
+    height: 18px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.type{
+.type {
     /* Just type what's on your mind */
 
 
-width: 163px;
-height: 18px;
+    width: 163px;
+    height: 18px;
 
-/* Subtitle */
+    /* Subtitle */
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 12px;
-line-height: 18px;
-/* identical to box height, or 150% */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
 
-letter-spacing: 0.1px;
+    letter-spacing: 0.1px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.frame19-3{
+.frame19-3 {
     /* Frame 19 */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
 
-width: 334px;
-height: 247px;
+    width: 334px;
+    height: 247px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.screen4{
+.screen4 {
     /* screen */
 
 
-width: 334px;
-height: 247px;
+    width: 334px;
+    height: 247px;
 
-background: url(.png);
-border-radius: 22px;
+    background: url(.png);
+    border-radius: 22px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-align-self: stretch;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
 }
 
-.footer-row2{
+.footer-row2 {
     /* row */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
-gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
 
-width: 309px;
-height: 194.99px;
+    width: 309px;
+    height: 194.99px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
-.footer-block{
+.footer-block {
     /* block */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
 
-width: 309px;
-height: 47px;
+    width: 309px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
-.bxmap{
+
+.bxmap {
     width: 46px;
     height: 46px;
-    
-    
+
+
     /* Inside auto layout */
-    
+
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -3925,321 +3933,324 @@ flex-grow: 0;
 
 
 
-.vect4-2{
+.vect4-2 {
     /* Vector */
 
 
-position: absolute;
-left: 33.33%;
-right: 33.33%;
-top: 25%;
-bottom: 41.67%;
+    position: absolute;
+    left: 33.33%;
+    right: 33.33%;
+    top: 25%;
+    bottom: 41.67%;
 
-/* light text */
+    /* light text */
 
-background: #FFFFFF;
+    background: #FFFFFF;
 }
 
-.adress{
+.adress {
     /* adress */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 263px;
-height: 47px;
+    width: 263px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
-.mockingbird{
+
+.mockingbird {
     /* 7480 Mockingbird Hill undefined */
 
 
-width: 245px;
-height: 27px;
+    width: 245px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 27px;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.footer-block2{
+.footer-block2 {
     /* block */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
 
-width: 167px;
-height: 47px;
+    width: 167px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
-.vect5{
+
+.vect5 {
     /* ic:baseline-phone-android */
 
 
-width: 35px;
-height: 35px;
+    width: 35px;
+    height: 35px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
-.adress2{
+
+.adress2 {
     /* adress */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
 
-width: 132px;
-height: 47px;
+    width: 132px;
+    height: 47px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.adress2-txt{
+.adress2-txt {
     /* (239) 555-0108 */
 
 
-width: 117px;
-height: 27px;
+    width: 117px;
+    height: 27px;
 
-/* Link */
+    /* Link */
 
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 400;
-font-size: 15px;
-line-height: 27px;
-/* identical to box height, or 180% */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 27px;
+    /* identical to box height, or 180% */
 
-letter-spacing: 0.2px;
+    letter-spacing: 0.2px;
 
-/* light text */
+    /* light text */
 
-color: #FFFFFF;
+    color: #FFFFFF;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.card-pricing{
+.card-pricing {
     box-sizing: border-box;
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: center;
-padding: 40px;
-gap: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    gap: 30px;
 
-width: 335px;
-height: 1061px;
+    width: 335px;
+    height: 1061px;
 
-/* light background */
+    /* light background */
 
-background: #FFFFFF;
-border: 1px solid #DEDEDE;
-border-radius: 10px;
+    background: #FFFFFF;
+    border: 1px solid #DEDEDE;
+    border-radius: 10px;
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 1;
-flex-grow: 0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
 
-.heading-pro{
+.heading-pro {
     /* heading */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-padding: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
 
-width: 212px;
-height: 71px;
+    width: 212px;
+    height: 71px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 
 
-.social{
+.social {
     /* social media */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 20px 0px;
-gap: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 0px;
+    gap: 24px;
 
-width: 170.96px;
-height: 80.99px;
+    width: 170.96px;
+    height: 80.99px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
-.row-pricing{
+.row-pricing {
     /* row */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
 
-width: 141px;
-height: 61px;
+    width: 141px;
+    height: 61px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
-.headline-pricing{
+.headline-pricing {
     /* headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 79px;
-height: 66px;
+    width: 79px;
+    height: 66px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.row-pricing2{
+.row-pricing2 {
     /* row */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
 
-width: 148px;
-height: 61px;
+    width: 148px;
+    height: 61px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 2;
-flex-grow: 0;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
 }
 
-.headline-pricing2{
+.headline-pricing2 {
     /* headline */
 
 
-/* Auto layout */
+    /* Auto layout */
 
-display: flex;
-flex-direction: row;
-align-items: center;
-padding: 0px 10px;
-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 10px;
+    gap: 10px;
 
-width: 86px;
-height: 66px;
+    width: 86px;
+    height: 66px;
 
 
-/* Inside auto layout */
+    /* Inside auto layout */
 
-flex: none;
-order: 0;
-flex-grow: 0;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
